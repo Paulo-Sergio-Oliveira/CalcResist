@@ -1,0 +1,12 @@
+#result{
+    border: 1px solid black;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.field{
+    width: 34.5%;
+}
+fieldset{
+    display: inline-block;
+}
