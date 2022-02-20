@@ -1,4 +1,5 @@
 function pegarDados(){
+    document.querySelector(".final").style.display = "block";
     let PriFaixa=document.getElementById('PriFaixa').value;
     let SegFaixa=document.getElementById('SegFaixa').value;
     let TerFaixa=document.getElementById('TerFaixa').value;
